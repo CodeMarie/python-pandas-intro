@@ -1,0 +1,10 @@
+For this assignment, you are given a d
+
+We want you to create a notebook and:
+
+Load the data in the CSV
+- List the columns
+- Get the number of rows & columns
+- Describe the data - what's the best and worse country/year combination?
+
+- Group the data by year - what's the mean value for year 1980? What's the difference with 2000?
