@@ -1,4 +1,4 @@
-## Introduction 
+## Introduction blue_book:
 
 This is an exercise to analyse the data with Pandas, looking at a data set about literacy around the world (source: Our World In Data).
 
